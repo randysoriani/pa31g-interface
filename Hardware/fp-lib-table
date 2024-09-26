@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Hardware")(type "KiCad")(uri "C:/Users/randy/Documents/pa31g-interface/Hardware")(options "")(descr ""))
+)
